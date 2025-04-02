@@ -5,7 +5,7 @@
 - Project planning
 - Backend engineering
 - Web
-- Looking for Interesting things to do 👀
+- Looking for Interesting projects to do 👀
 
 💬 Ask me about 
   - Life in 42
