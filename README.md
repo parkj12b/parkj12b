@@ -9,7 +9,5 @@
 - Looking for Interesting projects to do 👀
 
 💬 Ask me about 
-  - Life in 42
   - Recent projects
 
-📫 How to reach me: https://linktr.ee/minseo_jacob_park
