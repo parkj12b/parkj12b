@@ -2,10 +2,10 @@
 
 ## Interest
 - Maintainable software design
-- Project planning
-- Backend engineering
 - Web
 - Embedded Systems
+- OS
+- Security
 - Looking for Interesting projects to do 👀
 
 💬 Ask me about 
